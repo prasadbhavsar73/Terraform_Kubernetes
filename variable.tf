@@ -7,7 +7,7 @@ variable "int_port" {
 }
 
 variable "ext_port" {
-  default     = "8081"
+  default     = "30010"
 }
 
 variable "image_name" {
